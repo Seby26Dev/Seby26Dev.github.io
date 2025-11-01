@@ -39,7 +39,7 @@ social:
       icon: fab fa-github
     - name: Hack The Box
       url: https://www.hackthebox.com
-      icon: fas fa-laptop-code
+      icon: /assets/htb.svg
 
 # Site Verification Settings
 webmaster_verifications:
