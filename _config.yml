@@ -26,10 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://Seby26Dev.github.io"
 
 github:
-  username: github_username # change to your GitHub username
-
-twitter:
-  username: twitter_username # change to your Twitter username
+  username: Seby26Dev # change to your GitHub username
 
 social:
   # Change to your full name.
@@ -38,7 +35,6 @@ social:
   email: stansebastian19@yahoo.ro # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
